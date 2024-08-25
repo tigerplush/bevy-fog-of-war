@@ -1,1 +1,1 @@
-# bevy_fog_of_war
+# bevy-fog-of-war
