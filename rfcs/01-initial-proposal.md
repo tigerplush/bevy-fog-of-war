@@ -1,4 +1,4 @@
-# Feature Name: `bevy-fog-of-war`
+# Feature Name: `bevy_fog_of_war`
 
 ## Summary
 
@@ -33,6 +33,8 @@ Fog of war implementation should be fast, reliable and usable in virtually every
 For a fast and usable implementation the best approach would be to draw two textures, one for unrevealed areas and one for revealed areas that aren't currently revealed. Use a shader to overlay these textures during the rendering phase. If the fog of war should be volumetric, a mesh can be extruded from the textures and filled with volumetric fog.
 
 Onto these textures, the revealer will draw the specified shapes.
+
+The chosen strategy of implementation is to start small and concrete with a proof of concept and abstract and generalize from there.
 
 ## Drawbacks
 
