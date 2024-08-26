@@ -1,4 +1,4 @@
-# Feature Name: `bevy_fog_of_war`
+# Feature Name: `bevy-fog--w_r`
 
 ## Summary
 
@@ -52,11 +52,11 @@ The main risk implementing fog of war is, that fog of war itself is something th
 While there is no fog of war crate for bevy yet, fog of war has existed in games for over 25 years.
 There are extensive papers, video essays and tutorials on how to implement and use them and what benefits and problems they bring.
 
-* https://medium.com/@travnick/fog-of-war-282c8335a355
-* https://www.youtube.com/watch?v=vUYZiQ3C4hU
-* https://andrewhungblog.wordpress.com/2018/06/23/implementing-fog-of-war-in-unity/
-* https://github.com/ufna/VaFogOfWar
-* https://www.youtube.com/live/mJROd-NVHHQ
+- <https://medium.com/@travnick/fog-of-war-282c8335a355/>
+- <https://www.youtube.com/watch?v=vUYZiQ3C4hU/>
+- <https://andrewhungblog.wordpress.com/2018/06/23/implementing-fog-of-war-in-unity/>
+- <https://github.com/ufna/VaFogOfWar/>
+- <https://www.youtube.com/live/mJROd-NVHHQ>
 
 ## Unresolved questions
 
